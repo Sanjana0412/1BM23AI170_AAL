@@ -1,0 +1,62 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <math.h>
+
+int size;
+int arr[100000];
+clock_t start, end;
+
+void linearsearch(int target) {
+    int count = 0;
+    start = clock();
+
+    for (int i = 0; i < size; i++) {
+        count++;
+        if (arr[i] == arr[target-1]) {
+            end = clock();
+            double time_taken = ((double)(end - start)) / CLOCKS_PER_SEC;
+            printf("The count is %d\n", count);
+            printf("Time taken: %f seconds\n", time_taken);
+            printf("Best case (O(1)): %f\n", log(target + 1) / count);
+            printf("Average case (O(n)): %f\n", (double)target / count);
+            printf("Worst case (O(n^2)): %f\n", pow(target, 2) / count);
+            return;
+        }
+    }
+    printf("Element not found.\n");
+}
+
+int main() {
+    printf("\nEnter the size of the array: ");
+    scanf("%d", &size);
+
+    srand(time(0));
+    printf("\nGenerated Array: ");
+    for (int i = 0; i < size; i++) {
+        arr[i] = rand() % 2000;
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+
+
+
+    while (1) {
+        int choice;
+        printf("Enter 1 to search or 2 to quit: ");
+        scanf("%d", &choice);
+
+        if (choice == 2) {
+            break;
+        } else if (choice == 1) {
+            int target;
+            printf("Enter the search value: ");
+            scanf("%d", &target);
+            linearsearch(target);
+        } else {
+            printf("Invalid choice. Try again.\n");
+        }
+    }
+
+    return 0;
+}
