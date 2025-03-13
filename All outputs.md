@@ -8,3 +8,7 @@ binary search
 ![Screenshot 2025-03-13 212831](https://github.com/user-attachments/assets/5718a628-388d-49b0-abff-f0a5cb7ae701)
 ![Screenshot 2025-03-13 212915](https://github.com/user-attachments/assets/24b4ba1e-10f0-4278-9a44-080102867ee3)
 
+bubble sort
+
+![Screenshot 2025-03-12 234834](https://github.com/user-attachments/assets/3010c0be-e4dc-42ae-83d5-6b292a4012be)
+
