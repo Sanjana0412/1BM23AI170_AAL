@@ -12,3 +12,6 @@ bubble sort
 
 ![Screenshot 2025-03-12 234834](https://github.com/user-attachments/assets/3010c0be-e4dc-42ae-83d5-6b292a4012be)
 
+bubble sort and binary search
+![Screenshot 2025-03-13 215207](https://github.com/user-attachments/assets/66972eb5-4d4a-4cb9-bd64-bfeebdb04572)
+![Screenshot 2025-03-13 215217](https://github.com/user-attachments/assets/820c98fe-9fde-48ff-b836-f65730942612)
