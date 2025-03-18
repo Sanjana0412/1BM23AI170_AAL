@@ -19,3 +19,7 @@ bubble sort and binary search
 string matching
 
 ![image](https://github.com/user-attachments/assets/d95cbcaa-d052-4b6b-bd45-ec1dcfcfbd24)
+
+SELECTION SORT 
+
+![image](https://github.com/user-attachments/assets/5d27f0b6-0c15-4df2-8e76-369fbe4d94e0)
