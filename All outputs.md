@@ -23,3 +23,7 @@ string matching
 SELECTION SORT 
 
 ![image](https://github.com/user-attachments/assets/5d27f0b6-0c15-4df2-8e76-369fbe4d94e0)
+
+quck sort
+
+![image](https://github.com/user-attachments/assets/9c80bcc9-8cbf-4ebd-b351-ebac4e33639a)
