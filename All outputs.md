@@ -31,3 +31,12 @@ quick sort
 
 merge sort
 ![image](https://github.com/user-attachments/assets/bcb851db-346c-42cb-8360-8628e55c10ed)
+
+prim's algothrim
+
+![image](https://github.com/user-attachments/assets/15a90169-887d-4511-916d-3f4b832461c9)
+
+kruskal's algorithm
+
+![Uploading image.png…]()
+
