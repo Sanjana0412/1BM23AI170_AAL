@@ -38,5 +38,6 @@ prim's algothrim
 
 kruskal's algorithm
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9f3697cd-e119-4679-8de7-0c514f20b164)
+
 
