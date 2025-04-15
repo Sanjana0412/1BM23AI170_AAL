@@ -40,4 +40,11 @@ kruskal's algorithm
 
 ![image](https://github.com/user-attachments/assets/9f3697cd-e119-4679-8de7-0c514f20b164)
 
+insertion sort
+
+![image](https://github.com/user-attachments/assets/70230d24-2546-44fb-82bb-74911e3dca7b)
+
+dijkstra's algorithm
+
+![image](https://github.com/user-attachments/assets/55f9c837-277b-4707-8eec-8b7f27be482f)
 
