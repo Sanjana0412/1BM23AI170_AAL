@@ -44,6 +44,11 @@ insertion sort
 
 ![image](https://github.com/user-attachments/assets/70230d24-2546-44fb-82bb-74911e3dca7b)
 
+TOPOLOGICAL SORT USING DFS
+
+![image](https://github.com/user-attachments/assets/6aaaca0a-679b-4c4e-9667-2dd502fd047b)
+
+
 dijkstra's algorithm
 
 ![image](https://github.com/user-attachments/assets/55f9c837-277b-4707-8eec-8b7f27be482f)
