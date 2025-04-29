@@ -53,3 +53,6 @@ dijkstra's algorithm
 
 ![image](https://github.com/user-attachments/assets/55f9c837-277b-4707-8eec-8b7f27be482f)
 
+heap sort
+
+![image](https://github.com/user-attachments/assets/ab2d42db-b820-479e-aa5a-6455bd1645fd)
