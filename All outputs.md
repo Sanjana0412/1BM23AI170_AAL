@@ -56,3 +56,11 @@ dijkstra's algorithm
 heap sort
 
 ![image](https://github.com/user-attachments/assets/ab2d42db-b820-479e-aa5a-6455bd1645fd)
+
+n queen
+
+![image](https://github.com/user-attachments/assets/280c6e7c-a04c-426b-b924-d026b69d4f8a)
+
+travelling salesman
+
+![image](https://github.com/user-attachments/assets/c2a08c46-2527-4751-83d3-bde1210a7741)
