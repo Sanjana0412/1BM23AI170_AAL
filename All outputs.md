@@ -57,6 +57,10 @@
 
 ![image](https://github.com/user-attachments/assets/ab2d42db-b820-479e-aa5a-6455bd1645fd)
 
+#floyds algorithm
+
+![image](https://github.com/user-attachments/assets/3de2d977-09ef-4463-b345-50530b13f623)
+
 # n queen
 
 ![image](https://github.com/user-attachments/assets/280c6e7c-a04c-426b-b924-d026b69d4f8a)
